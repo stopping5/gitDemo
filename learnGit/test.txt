@@ -1,3 +1,4 @@
 ﻿hello world!
-I`m stopping 
-dev commit add master 
+I`m stopping
+dev commit
+stopping 
