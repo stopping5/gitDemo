@@ -1,8 +1,2 @@
 ﻿hello world!
 I`m stopping
-yes
-add one line
-add second line
-add thire line
-add checkout
-asd asd  asd 
